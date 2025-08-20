@@ -71,10 +71,6 @@ Além desses, completei ou estou cursando os seguintes treinamentos:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRicardoAlves&layout=compact&langs_count=8&theme=dark)](https://github.com/JoaoRicardoAlves)
 
-## 🐍 Minhas Contribuições Recentes (Animação da Cobrinha)
-
-Para tornar o perfil ainda mais interativo, você pode adicionar uma **animação divertida de uma cobrinha** que "come" suas contribuições no gráfico do GitHub [27, 28]. Para que essa animação funcione, é necessário configurar um **GitHub Action** que será executado periodicamente (por exemplo, a cada 12 horas) para atualizar o SVG da cobrinha [29]. O GitHub Actions é uma ferramenta de automação do ciclo de vida de desenvolvimento de software.
-
 ![Snake animation](https://github.com/JoaoRicardoAlves/JoaoRicardoAlves/blob/output/github-contribution-grid-snake.svg)
 
 ## 📧 Como me Contatar
