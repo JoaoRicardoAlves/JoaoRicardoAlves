@@ -67,9 +67,9 @@ Além desses, completei ou estou cursando os seguintes treinamentos:
 
 É possível exibir **estatísticas dinamicamente geradas** sobre seu perfil do GitHub, como o total de commits, estrelas e as linguagens mais utilizadas. Essas estatísticas são atualizadas automaticamente, pois são **imagens geradas em tempo real** por um aplicativo dinâmico que coleta dados da API do GitHub. O repositório `github-readme-stats` oferece essa funcionalidade, permitindo personalização de temas, inclusão de ícones e diferentes layouts.
 
-[![João Ricardo GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoRicardoAlves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/JoaoRicardoAlves)
+[![João Ricardo GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoRicardoAlves&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/JoaoRicardoAlves)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRicardoAlves&layout=compact&langs_count=8&theme=dracula)](https://github.com/JoaoRicardoAlves)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRicardoAlves&layout=compact&langs_count=8&theme=dark)](https://github.com/JoaoRicardoAlves)
 
 ## 🐍 Minhas Contribuições Recentes (Animação da Cobrinha)
 
