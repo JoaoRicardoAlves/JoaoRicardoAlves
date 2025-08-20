@@ -77,5 +77,5 @@ Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade 
 
 *   **Email**: joaoricardo.alves@outlook.com.br
     <a href = "mailto:joaoricardo.alves@outlook.com.br"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-*   **LinkedIn**: (Cole aqui o link para o seu perfil do LinkedIn)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/joao-ricardo-a177a0237)
+*   **LinkedIn**: (linkedin.com/in/joao-ricardo-a177a0237)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-ricardo-a177a0237/)
